@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/message/index",
+    "pages/platform/index",
+    "pages/mine/index",
+    "pages/component/web-view"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "srm",
+    "navigationBarBackgroundColor": "#FB3633",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#7d7e80",
+    "selectedColor": "#FB3633",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/tabbar/home_default.png",
+        "selectedIconPath": "static/images/tabbar/home_selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/message/index",
+        "iconPath": "static/images/tabbar/message_default.png",
+        "selectedIconPath": "static/images/tabbar/message_selected.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/platform/index",
+        "iconPath": "static/images/tabbar/platform_default.png",
+        "selectedIconPath": "static/images/tabbar/platform_selected.png",
+        "text": "工作台"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/images/tabbar/mine_default.png",
+        "selectedIconPath": "static/images/tabbar/mine_selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap77.json"
+}
