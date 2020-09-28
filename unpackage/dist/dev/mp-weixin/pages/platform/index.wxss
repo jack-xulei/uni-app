@@ -90,7 +90,8 @@
   -webkit-align-content: center;
           align-content: center;
   background: #fff;
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
 }
 .order-section .order-item.data-v-4b9be9ef {
   display: -webkit-box;
@@ -118,7 +119,8 @@
 .order-section .order-item.data-v-4b9be9ef {
   width: 25%;
   height: 140rpx;
-  border-radius: 10rpx;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
   font-size: 24rpx;
   color: #303133;
 }

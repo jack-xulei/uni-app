@@ -59,7 +59,7 @@
 				morePersion,
 				persion,
 				application,
-				url: encodeURIComponent('http://newsrmwx.dev.zhilink.com'),
+				url: 'http://newsrmwx.dev.zhilink.com',
 				myUrl: 'http://192.168.9.157:9020/',
 				appList: [{
 					icon: ticket,
